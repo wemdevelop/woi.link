@@ -59,7 +59,7 @@ const DigitalCard3DLoader = ({ onFinish }) => {
                         transition={{ delay: 0.2, type: "spring", stiffness: 100 }}
                     >
                             <div className="flex  h-full py-4 absolute left-6 top-6 justify-center items-center rounded-full  ">
-                                <img src="/public/woilink/react/logo/woi_logo.png" className='h-5' alt="" />
+                                <img src="/woilink/react/logo/woi_logo.png" className='h-5' alt="" />
                             </div>
                             </motion.div>
                         </header>
@@ -167,19 +167,19 @@ const DigitalCard3DLoader = ({ onFinish }) => {
                             >
                                 <div className="flex flex-row  justify-around mb-4 gap-3">
                                     <div className="w-full h-full mt-1  p-0.5 bg-yellow-500 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                        <img src="/public/woilink/react/icons/signup/g_meet.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                        <img src="/woilink/react/icons/signup/g_meet.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                     </div>
                                     <div className="w-full h-full mt-1  p-0.5 bg-green-700 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                        <img src="/public/woilink/react/icons/signup/microsoft.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                        <img src="/woilink/react/icons/signup/microsoft.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                     </div>
                                     <div className="w-full h-full mt-1  p-0.5 bg-blue-400 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                        <img src="/public/woilink/react/icons/signup/zoom.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                        <img src="/woilink/react/icons/signup/zoom.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                     </div>
                                     <div className="w-full h-full mt-1  p-0.5 bg-black rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                        <img src="/public/woilink/react/icons/signup/github.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                        <img src="/woilink/react/icons/signup/github.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                     </div>
                                     <div className="w-full h-full mt-1  p-0.5 bg-red-700 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                        <img src="/public/woilink/react/icons/signup/pinterest.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                        <img src="/woilink/react/icons/signup/pinterest.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                     </div>
                                 </div>
                             </motion.div>

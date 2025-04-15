@@ -61,7 +61,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                             transition={{ delay: 0.1, type: "spring", stiffness: 100 }}
                         >
                             <div className="flex  h-full py-4 absolute left-6 top-6 justify-center items-center rounded-full  ">
-                                <img src="/public/woilink/react/logo/woi_logo.png" className='h-5' alt="" />
+                                <img src="/woilink/react/logo/woi_logo.png" className='h-5' alt="" />
                             </div>
                         </motion.div>
                     </header>
@@ -76,7 +76,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                     transition={{ delay: 0.3, type: "spring", stiffness: 100 }}
                                 >
                                     <img
-                                        src="/public/woilink/react/avatar/15.jpg"
+                                        src="/woilink/react/avatar/15.jpg"
                                         alt="profile"
                                         className="w-26 h-26 rounded-full transition-all duration-300 ease-in-out  z-0 object-cover"
                                     />
@@ -150,7 +150,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                                     transition={{ delay: 0.8, type: "spring", stiffness: 100 }}
                                                 >
                                                     <div className="flex flex-col w-full justify-center items-center gap-1.5">
-                                                        <img src="/public/woilink/react/logo/shoe_2.png" className='h-20 ' alt="" />
+                                                        <img src="/woilink/react/logo/shoe_2.png" className='h-20 ' alt="" />
                                                         <div className="font-medium">$25</div>
                                                     </div>
                                                 </motion.div>
@@ -161,7 +161,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                                     transition={{ delay: 0.9, type: "spring", stiffness: 100 }}
                                                 >
                                                     <div className="flex flex-col w-full justify-center items-center gap-1.5">
-                                                        <img src="/public/woilink/react/logo/shoe_one.png" className='h-20 rotate-12' alt="" />
+                                                        <img src="/woilink/react/logo/shoe_one.png" className='h-20 rotate-12' alt="" />
                                                         <div className="font-medium">$80</div>
                                                     </div>
                                                 </motion.div>
@@ -179,7 +179,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                                     transition={{ delay: 0.4, type: "spring", stiffness: 100 }}
                                                 >
                                                     <div className="flex flex-col w-full justify-center items-center gap-1.5">
-                                                        <img src="/public/woilink/react/logo/lotion_1.png" className='h-20' alt="" />
+                                                        <img src="/woilink/react/logo/lotion_1.png" className='h-20' alt="" />
                                                         <div className="font-medium">$25</div>
                                                     </div>
                                                 </motion.div>
@@ -190,7 +190,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                                     transition={{ delay: 0.5, type: "spring", stiffness: 100 }}
                                                 >
                                                     <div className="flex flex-col w-full justify-center items-center gap-1.5">
-                                                        <img src="/public/woilink/react/logo/lotion_2.png" className='h-20' alt="" />
+                                                        <img src="/woilink/react/logo/lotion_2.png" className='h-20' alt="" />
                                                         <div className="font-medium">$80</div>
                                                     </div>
                                                 </motion.div>
@@ -225,7 +225,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                         transition={{ delay: 1.3, type: "spring", stiffness: 100 }}
                                     >
                                         <div className="w-full bg-white/40 justify-center  rounded-2xl items-center flex-col flex py-3">
-                                            <img src="/public/woilink/react/logo/t_white-bg.png" className='h-28' alt="" />
+                                            <img src="/woilink/react/logo/t_white-bg.png" className='h-28' alt="" />
                                             <div className="font-medium justify-center items-center flex flex-col">
                                                 <div className="text-sm">t-shirt White</div>
                                                 <div className="">$45</div>
@@ -239,7 +239,7 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                         transition={{ delay: 1.6, type: "spring", stiffness: 100 }}
                                     >
                                         <div className="w-full bg-white/40 justify-center rounded-2xl items-center flex-col flex py-3">
-                                            <img src="/public/woilink/react/logo/t_black-bg.png" className='h-28' alt="" />
+                                            <img src="/woilink/react/logo/t_black-bg.png" className='h-28' alt="" />
                                             <div className="font-medium justify-center items-center flex flex-col">
                                                 <div className="text-sm">t-shirt black</div>
                                                 <div className="">$45</div>
@@ -277,14 +277,14 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                     <div className=" bg-white/40 text-white p-2 w-22 rounded-xl shadow-2xl">
                                         <div className="flex flex-col gap-3 items-center justify-center">
 
-                                            <img src="/public/woilink/react/icons/signup/link.svg" className="w-fit h-12" alt="" />
+                                            <img src="/woilink/react/icons/signup/link.svg" className="w-fit h-12" alt="" />
                                         </div>
 
                                     </div>
                                     <div className=" bg-white/40 text-white p-2 w-22 rounded-xl shadow-2xl">
                                         <div className="flex flex-col gap-3 items-center justify-center">
 
-                                            <img src="/public/woilink/react/icons/signup/facebook.svg" className="w-fit h-12" alt="" />
+                                            <img src="/woilink/react/icons/signup/facebook.svg" className="w-fit h-12" alt="" />
                                         </div>
 
                                     </div>
@@ -292,21 +292,21 @@ const StoreMobile3DLoader = ({ onFinish }) => {
                                     <div className=" bg-white/40 text-white p-2 w-22 rounded-xl shadow-2xl">
                                         <div className="flex flex-col gap-3 items-center justify-center">
 
-                                            <img src="/public/woilink/react/icons/signup/x.svg" className="w-fit h-12" alt="" />
+                                            <img src="/woilink/react/icons/signup/x.svg" className="w-fit h-12" alt="" />
                                         </div>
 
                                     </div>
                                     <div className=" bg-white/40 text-white p-2 w-22 rounded-xl shadow-2xl">
                                         <div className="flex flex-col gap-3 items-center justify-center">
 
-                                            <img src="/public/woilink/react/icons/signup/pinterest.svg" className="w-fit h-12" alt="" />
+                                            <img src="/woilink/react/icons/signup/pinterest.svg" className="w-fit h-12" alt="" />
                                         </div>
 
                                     </div>
                                     <div className=" bg-white/40 text-white p-2 w-22 rounded-xl shadow-2xl">
                                         <div className="flex flex-col gap-3 items-center justify-center">
 
-                                            <img src="/public/woilink/react/icons/signup/threads.svg" className="w-fit h-12" alt="" />
+                                            <img src="/woilink/react/icons/signup/threads.svg" className="w-fit h-12" alt="" />
                                         </div>
                                     </div>
                                 </div>
@@ -315,19 +315,19 @@ const StoreMobile3DLoader = ({ onFinish }) => {
 
                             {/* <div className="flex flex-row mt-6  justify-around mb-4 gap-3">
                                 <div className="w-full h-full mt-1  p-0.5 bg-yellow-500 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                    <img src="/public/woilink/react/icons/signup/g_meet.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                    <img src="/woilink/react/icons/signup/g_meet.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                 </div>
                                 <div className="w-full h-full mt-1  p-0.5 bg-green-700 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                    <img src="/public/woilink/react/icons/signup/microsoft.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                    <img src="/woilink/react/icons/signup/microsoft.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                 </div>
                                 <div className="w-full h-full mt-1  p-0.5 bg-blue-400 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                    <img src="/public/woilink/react/icons/signup/zoom.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                    <img src="/woilink/react/icons/signup/zoom.png" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                 </div>
                                 <div className="w-full h-full mt-1  p-0.5 bg-black rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                    <img src="/public/woilink/react/icons/signup/github.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                    <img src="/woilink/react/icons/signup/github.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                 </div>
                                 <div className="w-full h-full mt-1  p-0.5 bg-red-700 rounded-full transition-all duration-300 ease-in-out flex items-center justify-center text-black">
-                                    <img src="/public/woilink/react/icons/signup/pinterest.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
+                                    <img src="/woilink/react/icons/signup/pinterest.svg" className="  w-11  rounded-full h-11 p-1 bg-white" alt="" />
                                 </div>
                             </div> */}
                         </div>

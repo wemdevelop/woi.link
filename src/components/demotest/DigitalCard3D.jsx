@@ -108,7 +108,7 @@ export default function DitalCard3D() {
                                         custom={2}>
                                         <button className="w-full hover:cursor-pointer shadow-lg text-gray-100  transition-all duration-300 bg-[#ea4335]  py-0.5 rounded-full font-medium">
                                             <div className="flex items-center px-4 pl-1 gap-2">
-                                                <div className="p-1 rounded-full bg-white"><img src="/public/woilink/react/icons/signup/instagram.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
+                                                <div className="p-1 rounded-full bg-white"><img src="/woilink/react/icons/signup/instagram.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
                                                 <div className="text-xs text-start">
                                                     <div className="text-sm">Follow on Instagram</div>
                                                 </div>
@@ -123,7 +123,7 @@ export default function DitalCard3D() {
                                         custom={3}>
                                         <button className="w-full hover:cursor-pointer shadow-lg  transition-all text-gray-100 duration-300 bg-green-600  py-0.5 rounded-full font-medium">
                                             <div className="flex items-center px-4 pl-1 gap-2">
-                                            <div className="p-1 rounded-full bg-white"><img src="/public/woilink/react/icons/signup/facebook.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
+                                            <div className="p-1 rounded-full bg-white"><img src="/woilink/react/icons/signup/facebook.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
                                                 <div className="text-xs text-start">
                                                     <div className="text-sm">Follow on Facebook</div>
                                                 </div>
@@ -138,7 +138,7 @@ export default function DitalCard3D() {
                                         custom={4}>
                                         <button className="w-full hover:cursor-pointer shadow-lg   transition-all duration-300 bg-blue-700 text-gray-100 py-0.5 rounded-full font-medium">
                                             <div className="flex items-center px-4 pl-1 gap-2">
-                                            <div className="p-1 rounded-full bg-white"><img src="/public/woilink/react/icons/signup/website.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
+                                            <div className="p-1 rounded-full bg-white"><img src="/woilink/react/icons/signup/website.svg" className="object-contain w-6 bg-transparent" alt="" /></div>
                                                 <div className="text-xs text-start">
                                                     <div className="text-sm">Visit our Website</div>
                                                 </div>
@@ -162,7 +162,7 @@ export default function DitalCard3D() {
                                     custom={6}>
                                     <div className="my-2 ">
                                         <div className="text-white bg-white rounded-2xl p-4 shadow-xl">
-                                            <img src="/public/woilink/react/logins/qrCode.png" className="object-contain h-32" alt="" />
+                                            <img src="/woilink/react/logins/qrCode.png" className="object-contain h-32" alt="" />
                                         </div>
                                         
                                     </div>
@@ -245,7 +245,7 @@ export default function DitalCard3D() {
                         
                     >
                         <div className="flex flex-wrap justify-center bg-gray-100 shadow-lg rounded-lg  items-center">
-                            <img src="/public/woilink/react/bicon/b2.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
+                            <img src="/woilink/react/bicon/b2.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
                         </div>
                     </motion.div>
                     <motion.div
@@ -255,7 +255,7 @@ export default function DitalCard3D() {
                         transition={{ delay: 0.4, type: "spring", stiffness: 100 }}
                     >
                         <div className="flex flex-wrap justify-center bg-fuchsia-100 shadow-lg rounded-lg  items-center">
-                            <img src="/public/woilink/react/bicon/b9.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
+                            <img src="/woilink/react/bicon/b9.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
                         </div>
                     </motion.div>
                     <motion.div
@@ -265,7 +265,7 @@ export default function DitalCard3D() {
                         transition={{ delay: 0.5, type: "spring", stiffness: 100 }}
                     >
                         <div className="flex flex-wrap justify-center bg-green-100 shadow-lg rounded-lg  items-center">
-                            <img src="/public/woilink/react/bicon/b4.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
+                            <img src="/woilink/react/bicon/b4.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
                         </div>
                     </motion.div>
                     <motion.div
@@ -275,7 +275,7 @@ export default function DitalCard3D() {
                         transition={{ delay: 0.6, type: "spring", stiffness: 100 }}
                     >
                         <div className="flex flex-wrap justify-center  bg-cyan-100 shadow-lg rounded-lg  items-center">
-                            <img src="/public/woilink/react/bicon/b8.svg" className="w-12 group-hover:w-[55px] transition-all ease-in-out duration-300 p-2 object-center" alt="" />
+                            <img src="/woilink/react/bicon/b8.svg" className="w-12 group-hover:w-[55px] transition-all ease-in-out duration-300 p-2 object-center" alt="" />
                         </div>
                     </motion.div>
                     <motion.div
@@ -285,7 +285,7 @@ export default function DitalCard3D() {
                         transition={{ delay: 0.7, type: "spring", stiffness: 100 }}
                     >
                         <div className="flex flex-wrap justify-center bg-yellow-100 shadow-lg rounded-lg  items-center">
-                            <img src="/public/woilink/react/bicon/b1.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
+                            <img src="/woilink/react/bicon/b1.svg" className="w-12 p-2 object-center group-hover:w-[55px] transition-all ease-in-out duration-300" alt="" />
                         </div>
                     </motion.div>
                     
@@ -297,7 +297,7 @@ export default function DitalCard3D() {
                         transition={{ delay: 0.8, type: "spring", stiffness: 100 }}
                     >
                         <img
-                            src="/public/woilink/react/logo/woi_logo.png"
+                            src="/woilink/react/logo/woi_logo.png"
                             alt="product"
                             className="rounded-xl w-fit px-6 py-2 h-9 bg-gray-100 shadow-xl object-contain"
                         />
